@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372624956037",
+    "project_id": "trident-mail-7a765",
+    "storage_bucket": "trident-mail-7a765.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372624956037:android:e63c25a73b56f5f80b67ec",
+        "android_client_info": {
+          "package_name": "com.example.trident_mail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZyKNkFP_Ym1bA14nQtjsI8mxZuAnBmbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
